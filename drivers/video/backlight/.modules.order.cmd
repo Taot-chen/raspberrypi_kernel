@@ -1,0 +1,1 @@
+savedcmd_drivers/video/backlight/modules.order := {   echo drivers/video/backlight/backlight.o;   echo drivers/video/backlight/gpio_backlight.o;   echo drivers/video/backlight/lm3630a_bl.o;   echo drivers/video/backlight/pwm_bl.o;   echo drivers/video/backlight/rpi_backlight.o; :; } > drivers/video/backlight/modules.order

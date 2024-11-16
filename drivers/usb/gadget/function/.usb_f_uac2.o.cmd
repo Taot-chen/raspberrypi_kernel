@@ -1,0 +1,1 @@
+savedcmd_drivers/usb/gadget/function/usb_f_uac2.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/usb/gadget/function/usb_f_uac2.o @drivers/usb/gadget/function/usb_f_uac2.mod 

@@ -1,0 +1,4 @@
+drivers/ata/libata.o
+drivers/ata/ahci.o
+drivers/ata/libahci.o
+drivers/ata/sata_mv.o

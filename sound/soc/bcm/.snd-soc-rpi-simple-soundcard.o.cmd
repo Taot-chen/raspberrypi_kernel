@@ -1,0 +1,1 @@
+savedcmd_sound/soc/bcm/snd-soc-rpi-simple-soundcard.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o sound/soc/bcm/snd-soc-rpi-simple-soundcard.o @sound/soc/bcm/snd-soc-rpi-simple-soundcard.mod 

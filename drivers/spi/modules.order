@@ -1,0 +1,8 @@
+drivers/spi/spidev.o
+drivers/spi/spi-bcm2835.o
+drivers/spi/spi-bcm2835aux.o
+drivers/spi/spi-bitbang.o
+drivers/spi/spi-dw.o
+drivers/spi/spi-dw-mmio.o
+drivers/spi/spi-gpio.o
+drivers/spi/spi-rp2040-gpio-bridge.o

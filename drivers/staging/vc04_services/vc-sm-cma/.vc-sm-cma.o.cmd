@@ -1,0 +1,1 @@
+savedcmd_drivers/staging/vc04_services/vc-sm-cma/vc-sm-cma.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/staging/vc04_services/vc-sm-cma/vc-sm-cma.o @drivers/staging/vc04_services/vc-sm-cma/vc-sm-cma.mod 

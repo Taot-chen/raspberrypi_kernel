@@ -1,0 +1,4 @@
+drivers/iio/humidity/dht11.o
+drivers/iio/humidity/hdc100x.o
+drivers/iio/humidity/htu21.o
+drivers/iio/humidity/si7020.o

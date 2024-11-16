@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/qualcomm/qcauart.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/net/ethernet/qualcomm/qcauart.o @drivers/net/ethernet/qualcomm/qcauart.mod 

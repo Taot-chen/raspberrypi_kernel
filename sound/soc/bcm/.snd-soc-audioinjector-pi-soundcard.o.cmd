@@ -1,0 +1,1 @@
+savedcmd_sound/soc/bcm/snd-soc-audioinjector-pi-soundcard.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o sound/soc/bcm/snd-soc-audioinjector-pi-soundcard.o @sound/soc/bcm/snd-soc-audioinjector-pi-soundcard.mod 

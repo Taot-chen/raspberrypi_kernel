@@ -1,0 +1,4 @@
+drivers/regulator/arizona-ldo1.o
+drivers/regulator/arizona-micsupp.o
+drivers/regulator/rpi-panel-attiny-regulator.o
+drivers/regulator/rpi-panel-v2-regulator.o

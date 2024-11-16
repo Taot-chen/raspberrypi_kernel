@@ -1,0 +1,1 @@
+savedcmd_sound/soc/bcm/snd-soc-hifiberry-dacplusdsp.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o sound/soc/bcm/snd-soc-hifiberry-dacplusdsp.o @sound/soc/bcm/snd-soc-hifiberry-dacplusdsp.mod 

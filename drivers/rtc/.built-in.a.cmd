@@ -1,0 +1,1 @@
+savedcmd_drivers/rtc/built-in.a := rm -f drivers/rtc/built-in.a;  printf "drivers/rtc/%s " lib.o class.o interface.o nvmem.o dev.o proc.o sysfs.o rtc-brcmstb-waketimer.o rtc-rpi.o | xargs ar cDPrST drivers/rtc/built-in.a

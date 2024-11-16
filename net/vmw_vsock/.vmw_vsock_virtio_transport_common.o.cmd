@@ -1,0 +1,1 @@
+savedcmd_net/vmw_vsock/vmw_vsock_virtio_transport_common.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o net/vmw_vsock/vmw_vsock_virtio_transport_common.o @net/vmw_vsock/vmw_vsock_virtio_transport_common.mod 

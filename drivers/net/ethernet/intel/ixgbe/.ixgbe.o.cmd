@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/intel/ixgbe/ixgbe.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/net/ethernet/intel/ixgbe/ixgbe.o @drivers/net/ethernet/intel/ixgbe/ixgbe.mod 

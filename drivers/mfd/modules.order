@@ -1,0 +1,5 @@
+drivers/mfd/arizona.o
+drivers/mfd/arizona-i2c.o
+drivers/mfd/arizona-spi.o
+drivers/mfd/wl1273-core.o
+drivers/mfd/simple-mfd-i2c.o

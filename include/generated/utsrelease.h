@@ -1,0 +1,1 @@
+#define UTS_RELEASE "6.6.58-v7l-MY_CUSTOM_KERNEL+"

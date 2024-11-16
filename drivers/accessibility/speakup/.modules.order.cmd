@@ -1,0 +1,1 @@
+savedcmd_drivers/accessibility/speakup/modules.order := {   echo drivers/accessibility/speakup/speakup_soft.o;   echo drivers/accessibility/speakup/speakup.o; :; } > drivers/accessibility/speakup/modules.order

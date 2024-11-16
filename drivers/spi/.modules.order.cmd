@@ -1,0 +1,1 @@
+savedcmd_drivers/spi/modules.order := {   echo drivers/spi/spidev.o;   echo drivers/spi/spi-bcm2835.o;   echo drivers/spi/spi-bcm2835aux.o;   echo drivers/spi/spi-bitbang.o;   echo drivers/spi/spi-dw.o;   echo drivers/spi/spi-dw-mmio.o;   echo drivers/spi/spi-gpio.o;   echo drivers/spi/spi-rp2040-gpio-bridge.o; :; } > drivers/spi/modules.order

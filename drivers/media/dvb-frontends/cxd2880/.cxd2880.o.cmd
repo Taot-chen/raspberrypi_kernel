@@ -1,0 +1,1 @@
+savedcmd_drivers/media/dvb-frontends/cxd2880/cxd2880.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/media/dvb-frontends/cxd2880/cxd2880.o @drivers/media/dvb-frontends/cxd2880/cxd2880.mod 

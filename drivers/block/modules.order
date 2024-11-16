@@ -1,0 +1,4 @@
+drivers/block/nbd.o
+drivers/block/drbd/drbd.o
+drivers/block/rbd.o
+drivers/block/zram/zram.o

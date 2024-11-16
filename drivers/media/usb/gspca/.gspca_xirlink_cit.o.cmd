@@ -1,0 +1,1 @@
+savedcmd_drivers/media/usb/gspca/gspca_xirlink_cit.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/media/usb/gspca/gspca_xirlink_cit.o @drivers/media/usb/gspca/gspca_xirlink_cit.mod 

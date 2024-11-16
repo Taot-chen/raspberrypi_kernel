@@ -1,0 +1,4 @@
+drivers/net/ethernet/intel/igb/igb.o
+drivers/net/ethernet/intel/igc/igc.o
+drivers/net/ethernet/intel/ixgbe/ixgbe.o
+drivers/net/ethernet/intel/i40e/i40e.o

@@ -1,0 +1,7 @@
+drivers/scsi/libiscsi.o
+drivers/scsi/libiscsi_tcp.o
+drivers/scsi/iscsi_tcp.o
+drivers/scsi/iscsi_boot_sysfs.o
+drivers/scsi/st.o
+drivers/scsi/sr_mod.o
+drivers/scsi/sg.o

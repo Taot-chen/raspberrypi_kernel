@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ieee802154/modules.order := {   echo drivers/net/ieee802154/at86rf230.o;   echo drivers/net/ieee802154/mrf24j40.o;   echo drivers/net/ieee802154/cc2520.o; :; } > drivers/net/ieee802154/modules.order

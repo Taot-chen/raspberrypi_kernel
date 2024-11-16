@@ -1,0 +1,1 @@
+savedcmd_drivers/media/usb/dvb-usb-v2/dvb-usb-dvbsky.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/media/usb/dvb-usb-v2/dvb-usb-dvbsky.o @drivers/media/usb/dvb-usb-v2/dvb-usb-dvbsky.mod 

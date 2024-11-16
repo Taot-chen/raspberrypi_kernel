@@ -1,0 +1,1 @@
+savedcmd_drivers/net/ethernet/qualcomm/qcaspi.mod := printf '%s\n'   qca_7k.o qca_debug.o qca_spi.o | awk '!x[$$0]++ { print("drivers/net/ethernet/qualcomm/"$$0) }' > drivers/net/ethernet/qualcomm/qcaspi.mod

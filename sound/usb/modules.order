@@ -1,0 +1,8 @@
+sound/usb/snd-usb-audio.o
+sound/usb/snd-usbmidi-lib.o
+sound/usb/misc/snd-ua101.o
+sound/usb/caiaq/snd-usb-caiaq.o
+sound/usb/6fire/snd-usb-6fire.o
+sound/usb/hiface/snd-usb-hiface.o
+sound/usb/line6/snd-usb-line6.o
+sound/usb/line6/snd-usb-toneport.o

@@ -1,0 +1,10 @@
+drivers/mtd/parsers/ofpart.o
+drivers/mtd/chips/chipreg.o
+drivers/mtd/devices/block2mtd.o
+drivers/mtd/nand/spi/spinand.o
+drivers/mtd/nand/nandcore.o
+drivers/mtd/mtd.o
+drivers/mtd/mtd_blkdevs.o
+drivers/mtd/mtdblock.o
+drivers/mtd/spi-nor/spi-nor.o
+drivers/mtd/ubi/ubi.o

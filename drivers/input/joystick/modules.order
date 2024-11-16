@@ -1,0 +1,6 @@
+drivers/input/joystick/fsia6b.o
+drivers/input/joystick/iforce/iforce.o
+drivers/input/joystick/iforce/iforce-usb.o
+drivers/input/joystick/psxpad-spi.o
+drivers/input/joystick/sensehat-joystick.o
+drivers/input/joystick/xpad.o

@@ -1,0 +1,1 @@
+savedcmd_drivers/mfd/modules.order := {   echo drivers/mfd/arizona.o;   echo drivers/mfd/arizona-i2c.o;   echo drivers/mfd/arizona-spi.o;   echo drivers/mfd/wl1273-core.o;   echo drivers/mfd/simple-mfd-i2c.o; :; } > drivers/mfd/modules.order

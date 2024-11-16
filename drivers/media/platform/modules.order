@@ -1,0 +1,4 @@
+drivers/media/platform/bcm2835/bcm2835-unicam.o
+drivers/media/platform/raspberrypi/pisp_be/pisp-be.o
+drivers/media/platform/raspberrypi/rp1_cfe/rp1-cfe.o
+drivers/media/platform/video-mux.o

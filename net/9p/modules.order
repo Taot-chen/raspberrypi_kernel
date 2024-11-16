@@ -1,0 +1,2 @@
+net/9p/9pnet.o
+net/9p/9pnet_fd.o

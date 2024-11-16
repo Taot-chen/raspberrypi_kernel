@@ -1,0 +1,1 @@
+savedcmd_drivers/media/platform/raspberrypi/pisp_be/pisp-be.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/media/platform/raspberrypi/pisp_be/pisp-be.o @drivers/media/platform/raspberrypi/pisp_be/pisp-be.mod 

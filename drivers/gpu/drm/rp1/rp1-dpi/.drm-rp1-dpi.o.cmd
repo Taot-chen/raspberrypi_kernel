@@ -1,0 +1,1 @@
+savedcmd_drivers/gpu/drm/rp1/rp1-dpi/drm-rp1-dpi.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/gpu/drm/rp1/rp1-dpi/drm-rp1-dpi.o @drivers/gpu/drm/rp1/rp1-dpi/drm-rp1-dpi.mod 

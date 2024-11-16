@@ -1,0 +1,14 @@
+!<thin>
+//                                              114       `
+genet/bcmgenet.o/
+genet/bcmmii.o/
+genet/bcmgenet_wol.o/
+asp2/bcmasp.o/
+asp2/bcmasp_intf.o/
+asp2/bcmasp_ethtool.o/
+/0              0           0     0     644     68368     `
+/18             0           0     0     644     12768     `
+/34             0           0     0     644     5384      `
+/56             0           0     0     644     25288     `
+/71             0           0     0     644     26688     `
+/91             0           0     0     644     12440     `

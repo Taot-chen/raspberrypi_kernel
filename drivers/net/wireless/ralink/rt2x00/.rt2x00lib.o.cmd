@@ -1,0 +1,1 @@
+savedcmd_drivers/net/wireless/ralink/rt2x00/rt2x00lib.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/net/wireless/ralink/rt2x00/rt2x00lib.o @drivers/net/wireless/ralink/rt2x00/rt2x00lib.mod 

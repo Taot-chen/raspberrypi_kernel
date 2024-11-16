@@ -1,0 +1,3 @@
+drivers/gpu/drm/rp1/rp1-dsi/drm-rp1-dsi.o
+drivers/gpu/drm/rp1/rp1-dpi/drm-rp1-dpi.o
+drivers/gpu/drm/rp1/rp1-vec/drm-rp1-vec.o

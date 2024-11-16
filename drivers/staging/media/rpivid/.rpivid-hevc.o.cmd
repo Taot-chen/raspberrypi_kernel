@@ -1,0 +1,1 @@
+savedcmd_drivers/staging/media/rpivid/rpivid-hevc.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/staging/media/rpivid/rpivid-hevc.o @drivers/staging/media/rpivid/rpivid-hevc.mod 

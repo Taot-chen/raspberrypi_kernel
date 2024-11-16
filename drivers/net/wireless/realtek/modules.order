@@ -1,0 +1,16 @@
+drivers/net/wireless/realtek/rtl818x/rtl8187/rtl8187.o
+drivers/net/wireless/realtek/rtlwifi/rtlwifi.o
+drivers/net/wireless/realtek/rtlwifi/rtl_usb.o
+drivers/net/wireless/realtek/rtlwifi/rtl8192c/rtl8192c-common.o
+drivers/net/wireless/realtek/rtlwifi/rtl8192cu/rtl8192cu.o
+drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu.o
+drivers/net/wireless/realtek/rtw88/rtw88_core.o
+drivers/net/wireless/realtek/rtw88/rtw88_8822b.o
+drivers/net/wireless/realtek/rtw88/rtw88_8822bu.o
+drivers/net/wireless/realtek/rtw88/rtw88_8822c.o
+drivers/net/wireless/realtek/rtw88/rtw88_8822cu.o
+drivers/net/wireless/realtek/rtw88/rtw88_8723d.o
+drivers/net/wireless/realtek/rtw88/rtw88_8723du.o
+drivers/net/wireless/realtek/rtw88/rtw88_8821c.o
+drivers/net/wireless/realtek/rtw88/rtw88_8821cu.o
+drivers/net/wireless/realtek/rtw88/rtw88_usb.o

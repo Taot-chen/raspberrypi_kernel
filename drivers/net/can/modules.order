@@ -1,0 +1,9 @@
+drivers/net/can/dev/can-dev.o
+drivers/net/can/spi/mcp251xfd/mcp251xfd.o
+drivers/net/can/spi/mcp251x.o
+drivers/net/can/usb/usb_8dev.o
+drivers/net/can/usb/ems_usb.o
+drivers/net/can/usb/gs_usb.o
+drivers/net/can/usb/peak_usb/peak_usb.o
+drivers/net/can/vcan.o
+drivers/net/can/slcan/slcan.o

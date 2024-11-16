@@ -1,0 +1,11 @@
+drivers/input/touchscreen/ads7846.o
+drivers/input/touchscreen/edt-ft5x06.o
+drivers/input/touchscreen/egalax_ts.o
+drivers/input/touchscreen/exc3000.o
+drivers/input/touchscreen/goodix_ts.o
+drivers/input/touchscreen/ili210x.o
+drivers/input/touchscreen/usbtouchscreen.o
+drivers/input/touchscreen/stmpe-ts.o
+drivers/input/touchscreen/tsc2007.o
+drivers/input/touchscreen/raspberrypi-ts.o
+drivers/input/touchscreen/iqs5xx.o

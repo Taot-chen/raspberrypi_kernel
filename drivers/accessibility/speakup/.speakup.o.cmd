@@ -1,0 +1,1 @@
+savedcmd_drivers/accessibility/speakup/speakup.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/accessibility/speakup/speakup.o @drivers/accessibility/speakup/speakup.mod 

@@ -1,0 +1,1 @@
+savedcmd_drivers/staging/vc04_services/bcm2835-camera/bcm2835-v4l2.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/staging/vc04_services/bcm2835-camera/bcm2835-v4l2.o @drivers/staging/vc04_services/bcm2835-camera/bcm2835-v4l2.mod 

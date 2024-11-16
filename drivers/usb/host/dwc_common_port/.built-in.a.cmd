@@ -1,0 +1,1 @@
+savedcmd_drivers/usb/host/dwc_common_port/built-in.a := rm -f drivers/usb/host/dwc_common_port/built-in.a;  printf "drivers/usb/host/dwc_common_port/%s " dwc_cc.o dwc_modpow.o dwc_dh.o dwc_crypto.o dwc_notifier.o dwc_common_linux.o dwc_mem.o | xargs ar cDPrST drivers/usb/host/dwc_common_port/built-in.a

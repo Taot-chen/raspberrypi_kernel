@@ -1,0 +1,3 @@
+drivers/iio/adc/mcp320x.o
+drivers/iio/adc/mcp3422.o
+drivers/iio/adc/ti-ads1015.o

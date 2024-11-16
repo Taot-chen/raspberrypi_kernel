@@ -1,0 +1,1 @@
+savedcmd_drivers/mfd/built-in.a := rm -f drivers/mfd/built-in.a;  printf "drivers/mfd/%s " bcm2835-pm.o stmpe.o stmpe-i2c.o stmpe-spi.o mfd-core.o syscon.o rp1.o | xargs ar cDPrST drivers/mfd/built-in.a

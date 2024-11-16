@@ -1,0 +1,2 @@
+drivers/mux/mux-core.o
+drivers/mux/mux-gpio.o

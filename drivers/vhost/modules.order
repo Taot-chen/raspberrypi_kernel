@@ -1,0 +1,4 @@
+drivers/vhost/vhost_net.o
+drivers/vhost/vhost_vsock.o
+drivers/vhost/vhost.o
+drivers/vhost/vhost_iotlb.o

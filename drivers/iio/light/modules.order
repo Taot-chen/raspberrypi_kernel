@@ -1,0 +1,4 @@
+drivers/iio/light/apds9960.o
+drivers/iio/light/bh1750.o
+drivers/iio/light/tsl4531.o
+drivers/iio/light/veml6070.o

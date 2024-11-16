@@ -1,0 +1,5 @@
+drivers/input/keyboard/cap11xx.o
+drivers/input/keyboard/gpio_keys.o
+drivers/input/keyboard/tca6416-keypad.o
+drivers/input/keyboard/tca8418_keypad.o
+drivers/input/keyboard/matrix_keypad.o

@@ -1,0 +1,1 @@
+savedcmd_drivers/net/wireless/intersil/hostap/hostap.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/net/wireless/intersil/hostap/hostap.o @drivers/net/wireless/intersil/hostap/hostap.mod 

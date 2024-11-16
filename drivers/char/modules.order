@@ -1,0 +1,10 @@
+drivers/char/broadcom/bcm2835_smi_dev.o
+drivers/char/tpm/tpm.o
+drivers/char/tpm/tpm_tis_core.o
+drivers/char/tpm/tpm_tis_spi.o
+drivers/char/tpm/tpm_tis_i2c.o
+drivers/char/xillybus/xillybus_class.o
+drivers/char/xillybus/xillybus_core.o
+drivers/char/xillybus/xillybus_pcie.o
+drivers/char/xillybus/xillyusb.o
+drivers/char/raspberrypi-gpiomem.o

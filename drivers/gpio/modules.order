@@ -1,0 +1,8 @@
+drivers/gpio/gpio-arizona.o
+drivers/gpio/gpio-fsm.o
+drivers/gpio/gpio-max7300.o
+drivers/gpio/gpio-max7301.o
+drivers/gpio/gpio-max730x.o
+drivers/gpio/gpio-mockup.o
+drivers/gpio/gpio-pca953x.o
+drivers/gpio/gpio-pcf857x.o

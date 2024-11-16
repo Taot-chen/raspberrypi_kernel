@@ -1,0 +1,1 @@
+savedcmd_drivers/phy/broadcom/built-in.a := rm -f drivers/phy/broadcom/built-in.a;  printf "drivers/phy/broadcom/%s " phy-brcm-usb.o phy-brcm-usb-init.o phy-brcm-usb-init-synopsys.o | xargs ar cDPrST drivers/phy/broadcom/built-in.a

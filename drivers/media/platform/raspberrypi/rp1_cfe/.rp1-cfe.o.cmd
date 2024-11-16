@@ -1,0 +1,1 @@
+savedcmd_drivers/media/platform/raspberrypi/rp1_cfe/rp1-cfe.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/media/platform/raspberrypi/rp1_cfe/rp1-cfe.o @drivers/media/platform/raspberrypi/rp1_cfe/rp1-cfe.mod 

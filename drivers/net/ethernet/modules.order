@@ -1,0 +1,12 @@
+drivers/net/ethernet/intel/igb/igb.o
+drivers/net/ethernet/intel/igc/igc.o
+drivers/net/ethernet/intel/ixgbe/ixgbe.o
+drivers/net/ethernet/intel/i40e/i40e.o
+drivers/net/ethernet/microchip/enc28j60.o
+drivers/net/ethernet/microchip/lan743x.o
+drivers/net/ethernet/qualcomm/qca_7k_common.o
+drivers/net/ethernet/qualcomm/qcaspi.o
+drivers/net/ethernet/qualcomm/qcauart.o
+drivers/net/ethernet/realtek/r8169.o
+drivers/net/ethernet/wiznet/w5100.o
+drivers/net/ethernet/wiznet/w5100-spi.o

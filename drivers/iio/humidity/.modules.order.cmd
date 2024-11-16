@@ -1,0 +1,1 @@
+savedcmd_drivers/iio/humidity/modules.order := {   echo drivers/iio/humidity/dht11.o;   echo drivers/iio/humidity/hdc100x.o;   echo drivers/iio/humidity/htu21.o;   echo drivers/iio/humidity/si7020.o; :; } > drivers/iio/humidity/modules.order

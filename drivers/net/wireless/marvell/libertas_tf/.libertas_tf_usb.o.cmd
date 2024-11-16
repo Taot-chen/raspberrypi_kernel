@@ -1,0 +1,1 @@
+savedcmd_drivers/net/wireless/marvell/libertas_tf/libertas_tf_usb.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/net/wireless/marvell/libertas_tf/libertas_tf_usb.o @drivers/net/wireless/marvell/libertas_tf/libertas_tf_usb.mod 

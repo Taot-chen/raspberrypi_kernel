@@ -1,0 +1,1 @@
+savedcmd_drivers/staging/vc04_services/vchiq-mmal/bcm2835-mmal-vchiq.o := ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o drivers/staging/vc04_services/vchiq-mmal/bcm2835-mmal-vchiq.o @drivers/staging/vc04_services/vchiq-mmal/bcm2835-mmal-vchiq.mod 

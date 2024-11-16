@@ -1,0 +1,1 @@
+savedcmd_drivers/scsi/modules.order := {   echo drivers/scsi/libiscsi.o;   echo drivers/scsi/libiscsi_tcp.o;   echo drivers/scsi/iscsi_tcp.o;   echo drivers/scsi/iscsi_boot_sysfs.o;   echo drivers/scsi/st.o;   echo drivers/scsi/sr_mod.o;   echo drivers/scsi/sg.o; :; } > drivers/scsi/modules.order
